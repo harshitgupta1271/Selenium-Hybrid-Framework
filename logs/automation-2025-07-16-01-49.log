@@ -1,0 +1,57 @@
+00:28:06.537 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+00:28:06.654 [main] INFO  BaseTestClass.BaseClass - Browser closed
+00:30:04.402 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+00:30:04.410 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:30:05.570 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:30:05.894 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:30:08.970 [main] ERROR BaseTestClass.BaseClass - Test Failed: Confirmation message not matched
+00:30:08.971 [main] DEBUG BaseTestClass.BaseClass - Expected message: Your Account Has Been Created!!, but got: Your Account Has Been Created!
+00:30:09.088 [main] INFO  BaseTestClass.BaseClass - Browser closed
+00:37:34.284 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+00:37:34.292 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:37:35.602 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:37:36.846 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:37:36.864 [main] ERROR BaseTestClass.BaseClass - Test Failed: Confirmation message not matched
+00:37:36.865 [main] DEBUG BaseTestClass.BaseClass - Expected message: Your Account Has Been Created!!, but got: Your Account Has Been Created!
+00:37:36.977 [main] INFO  BaseTestClass.BaseClass - Browser closed
+01:04:17.727 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+01:04:17.738 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+01:04:18.266 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+01:04:19.462 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+01:04:19.480 [main] ERROR BaseTestClass.BaseClass - Test Failed: Confirmation message not matched
+01:04:19.480 [main] DEBUG BaseTestClass.BaseClass - Expected message: Your Account Has Been Created!!, but got: Your Account Has Been Created!
+01:04:19.597 [main] INFO  BaseTestClass.BaseClass - Browser closed
+01:04:37.028 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+01:04:37.036 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+01:04:37.381 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+01:04:37.738 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+01:04:38.368 [main] INFO  BaseTestClass.BaseClass - Registration successful
+01:04:38.369 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+01:04:38.483 [main] INFO  BaseTestClass.BaseClass - Browser closed
+01:13:23.589 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+01:13:23.595 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+01:13:23.914 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+01:13:25.060 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+01:13:25.082 [main] INFO  BaseTestClass.BaseClass - Registration successful
+01:13:25.082 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+01:13:25.196 [main] INFO  BaseTestClass.BaseClass - Browser closed
+01:18:13.879 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+01:18:13.888 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+01:18:14.226 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+01:18:15.378 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+01:18:15.395 [main] INFO  BaseTestClass.BaseClass - Registration successful
+01:18:15.395 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+01:18:15.512 [main] INFO  BaseTestClass.BaseClass - Browser closed
+01:38:48.656 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+01:38:48.663 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+01:38:49.078 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+01:38:50.258 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+01:38:50.276 [main] INFO  BaseTestClass.BaseClass - Registration successful
+01:38:50.277 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+01:38:50.387 [main] INFO  BaseTestClass.BaseClass - Browser closed
+01:49:28.634 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+01:49:28.642 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+01:49:29.035 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+01:49:30.163 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+01:49:30.183 [main] INFO  BaseTestClass.BaseClass - Registration successful
+01:49:30.183 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********

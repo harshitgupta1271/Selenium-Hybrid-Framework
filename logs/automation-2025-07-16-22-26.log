@@ -1,0 +1,63 @@
+22:14:50.296 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:14:50.654 [main] INFO  BaseTestClass.BaseClass - datadriven Test failed
+22:14:50.658 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:14:51.663 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:14:51.979 [main] INFO  BaseTestClass.BaseClass - datadriven Test failed
+22:14:51.982 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:15:02.850 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:15:02.850 [main] INFO  BaseTestClass.BaseClass - datadriven Test Passed
+22:15:02.850 [main] INFO  BaseTestClass.BaseClass - datadriven Test Finished
+22:15:02.853 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:15:06.462 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:15:06.814 [main] INFO  BaseTestClass.BaseClass - datadriven Test Passed
+22:15:06.814 [main] INFO  BaseTestClass.BaseClass - datadriven Test Finished
+22:15:06.817 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:15:17.203 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:15:17.203 [main] INFO  BaseTestClass.BaseClass - datadriven Test Passed
+22:15:17.203 [main] INFO  BaseTestClass.BaseClass - datadriven Test Finished
+22:15:17.205 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:15:27.722 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:15:27.723 [main] INFO  BaseTestClass.BaseClass - datadriven Test Passed
+22:15:27.723 [main] INFO  BaseTestClass.BaseClass - datadriven Test Finished
+22:15:27.726 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:15:29.048 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:15:29.452 [main] INFO  BaseTestClass.BaseClass - datadriven Test Passed
+22:15:29.452 [main] INFO  BaseTestClass.BaseClass - datadriven Test Finished
+22:15:29.455 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:15:39.818 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:15:39.819 [main] INFO  BaseTestClass.BaseClass - datadriven Test Passed
+22:15:39.819 [main] INFO  BaseTestClass.BaseClass - datadriven Test Finished
+22:15:39.822 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+22:15:50.302 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+22:15:50.302 [main] INFO  BaseTestClass.BaseClass - datadriven Test Passed
+22:15:50.302 [main] INFO  BaseTestClass.BaseClass - datadriven Test Finished
+22:15:50.421 [main] INFO  BaseTestClass.BaseClass - Browser closed
+22:17:07.666 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+22:17:07.672 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+22:17:07.677 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+22:17:07.901 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+22:17:08.027 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+22:17:08.771 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+22:17:08.771 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+22:17:08.894 [main] INFO  BaseTestClass.BaseClass - Browser closed
+22:21:49.872 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+22:21:49.878 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+22:21:49.884 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+22:21:50.110 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+22:21:50.974 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+22:21:50.995 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+22:21:50.995 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+22:21:51.111 [main] INFO  BaseTestClass.BaseClass - Browser closed
+22:23:25.049 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+22:23:25.055 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+22:23:25.062 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+22:23:25.338 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+22:23:25.464 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+22:23:26.255 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+22:23:26.255 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+22:23:26.388 [main] INFO  BaseTestClass.BaseClass - Browser closed
+22:26:00.517 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+22:26:00.523 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+22:26:00.528 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+22:26:01.069 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+22:26:01.190 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists

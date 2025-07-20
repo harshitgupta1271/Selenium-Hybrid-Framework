@@ -1,0 +1,13 @@
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/BaseTestClass/BaseClass.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/pageObjects/BasePage.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/pageObjects/HomePage.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/pageObjects/LoginPage.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/pageObjects/MyAccountPage.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/pageObjects/Registration.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/testCases/TC001_AccountRegistrationTest.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/testCases/TC002_LoginTest.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/testCases/TC003_LoginDDTest.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/testCases/safari.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/utilities/DataProviders.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/utilities/ExcelUtility.java
+/Users/harshit/Desktop/HybridAutomationFramework/src/test/java/utilities/ExtentReportManager.java

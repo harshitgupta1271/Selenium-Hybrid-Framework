@@ -1,0 +1,50 @@
+15:00:41.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.915 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.915 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.925 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.925 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:41.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:41.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:05:09.658 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+15:05:09.673 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+15:05:09.686 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+15:05:10.161 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+15:05:11.451 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+15:05:11.466 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+15:05:11.466 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+15:05:11.922 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+15:05:16.314 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+15:05:16.315 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+15:05:16.315 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+15:05:16.538 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+15:05:16.677 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+15:05:17.461 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+15:05:17.461 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+15:05:17.573 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+15:06:49.810 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+15:06:49.829 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+15:06:49.837 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+15:06:50.333 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+15:06:51.045 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+15:06:51.061 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+15:06:51.061 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+15:06:51.510 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+15:06:55.488 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+15:06:55.489 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+15:06:55.489 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+15:06:55.706 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+15:06:55.828 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+15:06:56.822 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+15:06:56.822 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***

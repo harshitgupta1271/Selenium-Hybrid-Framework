@@ -1,0 +1,29 @@
+15:06:56.956 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+15:54:02.878 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+15:54:02.892 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+15:54:02.903 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+15:54:03.395 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+15:54:04.169 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+15:54:04.186 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+15:54:04.186 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+15:54:04.622 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+15:54:08.641 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+15:54:08.642 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+15:54:08.642 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+15:54:08.885 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+15:54:09.010 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+15:54:09.733 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+15:54:09.733 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+15:54:09.863 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+16:05:05.345 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+16:05:05.363 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+16:05:05.377 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+16:05:06.107 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+16:05:07.777 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+16:05:07.795 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+16:05:07.795 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+16:05:08.232 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+16:05:11.904 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+16:05:11.906 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+16:05:11.907 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+16:05:12.029 [main] INFO  BaseTestClass.BaseClass - Browser closed.

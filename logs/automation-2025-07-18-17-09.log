@@ -1,0 +1,44 @@
+23:20:17.016 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.026 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.026 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.048 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.054 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.054 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.058 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.058 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.064 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:20:17.064 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:20:17.075 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+23:20:18.151 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+23:20:18.151 [main] INFO  BaseTestClass.BaseClass - datadriven Test failed
+23:20:18.655 [main] INFO  BaseTestClass.BaseClass - datadriven Test Started
+23:20:19.610 [main] INFO  BaseTestClass.BaseClass - datadriven Validations
+23:20:19.610 [main] INFO  BaseTestClass.BaseClass - datadriven Test failed
+23:20:20.191 [main] INFO  BaseTestClass.BaseClass - Browser closed
+17:07:39.377 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+17:07:39.377 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+17:07:39.380 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+17:07:39.380 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+17:07:44.631 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Providing registration details
+17:07:44.773 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed
+17:09:42.961 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+17:09:42.961 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+17:09:42.964 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********

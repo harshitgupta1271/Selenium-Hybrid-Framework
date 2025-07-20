@@ -1,0 +1,50 @@
+21:50:56.870 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+21:50:57.320 [main] INFO  BaseTestClass.BaseClass - Browser closed
+21:53:59.949 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+21:53:59.950 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+21:54:00.301 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+21:54:00.680 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+21:54:01.433 [main] INFO  BaseTestClass.BaseClass - Registration successful
+21:54:01.433 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+21:54:01.544 [main] INFO  BaseTestClass.BaseClass - Browser closed
+21:56:27.117 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+21:56:27.120 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+21:56:27.457 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+21:56:27.776 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+21:56:28.629 [main] INFO  BaseTestClass.BaseClass - Registration successful
+21:56:28.629 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+21:56:28.742 [main] INFO  BaseTestClass.BaseClass - Browser closed
+21:56:31.513 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+21:56:31.517 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+21:56:32.177 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+21:56:32.738 [main] INFO  BaseTestClass.BaseClass - Browser closed
+21:58:00.420 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+21:58:00.423 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+21:58:00.754 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+21:58:01.093 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+21:58:01.632 [main] ERROR BaseTestClass.BaseClass - Test Failed: Confirmation message not matched
+21:58:01.632 [main] DEBUG BaseTestClass.BaseClass - Expected message: Your Account Has Been Created!!, but got: Error communicating with the remote browser. It may have died.
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [777eaf2637953dd1f587142903cf0b59, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ck/r3h7gk6549g...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58905}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58905/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 777eaf2637953dd1f587142903cf0b59
+22:06:50.850 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+22:06:50.857 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+22:06:50.861 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+22:06:51.456 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+22:06:52.235 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+22:06:52.258 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+22:06:52.258 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+22:06:52.394 [main] INFO  BaseTestClass.BaseClass - Browser closed
+22:07:13.036 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+22:07:13.044 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+22:07:13.443 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+22:07:13.809 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+22:07:14.677 [main] INFO  BaseTestClass.BaseClass - Registration successful
+22:07:14.677 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+22:07:14.797 [main] INFO  BaseTestClass.BaseClass - Browser closed
+22:07:18.445 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened
+22:07:18.450 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+22:07:19.370 [main] INFO  BaseTestClass.BaseClass - Providing registration details

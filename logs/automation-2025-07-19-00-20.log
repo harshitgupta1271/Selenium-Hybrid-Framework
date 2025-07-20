@@ -1,0 +1,55 @@
+00:05:15.637 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:05:16.166 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:05:16.948 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+00:15:54.590 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:15:54.610 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:15:54.621 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:15:55.122 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:15:55.122 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:15:55.125 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:15:55.126 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:15:55.591 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:15:56.001 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+00:15:56.007 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser closed.
+00:16:40.388 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:16:40.408 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:16:40.418 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:16:40.901 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:16:41.979 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+00:16:41.979 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:16:41.983 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:16:41.984 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:16:42.215 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - My Account Existed
+00:16:42.216 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+00:16:50.794 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+00:17:28.854 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:17:28.854 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:17:28.874 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:17:28.874 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:17:28.886 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:17:28.886 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:17:29.756 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+00:17:55.331 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:17:55.353 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:17:55.359 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:17:55.609 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:17:55.614 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:17:55.614 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:17:55.824 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:17:56.252 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser closed.
+00:17:56.257 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+00:20:33.867 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:20:33.882 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:20:34.394 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:20:35.593 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:20:35.624 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:20:35.625 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:20:35.740 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+00:20:40.951 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:20:40.956 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:20:41.793 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:20:42.976 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:20:42.988 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:20:42.988 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:20:43.380 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+00:20:47.684 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.

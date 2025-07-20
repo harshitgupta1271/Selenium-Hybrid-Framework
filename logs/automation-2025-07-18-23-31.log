@@ -1,0 +1,57 @@
+23:25:34.963 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+23:25:34.963 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:25:34.976 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:25:34.976 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:25:35.206 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - My Account Existed
+23:25:35.206 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+23:25:44.661 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser closed.
+23:25:46.298 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+23:27:26.238 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:27:26.264 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:27:26.273 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:27:26.526 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:27:26.530 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:27:26.531 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:27:26.763 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+23:27:27.652 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+23:27:27.683 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - My Account Existed
+23:27:27.683 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+23:27:29.201 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser closed.
+23:27:29.690 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+23:27:59.502 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:27:59.516 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:27:59.525 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:28:00.059 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+23:28:01.066 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+23:28:01.103 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+23:28:01.103 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+23:28:03.219 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+23:28:10.851 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:28:10.856 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:28:10.856 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:28:11.346 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+23:28:12.108 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+23:28:12.127 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+23:28:12.127 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+23:28:14.553 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+23:28:27.121 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:28:27.139 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:28:27.150 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:28:27.649 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+23:28:27.706 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:28:27.710 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:28:27.710 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:28:28.379 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+23:28:28.612 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - My Account Existed
+23:28:28.612 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+23:28:35.832 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+23:28:37.477 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser closed.
+23:30:16.803 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:30:16.803 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:30:16.824 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:30:16.824 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+23:30:16.833 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:30:16.833 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+23:30:17.726 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser closed.
+23:31:44.256 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+23:31:44.275 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - *** Started login test  ***

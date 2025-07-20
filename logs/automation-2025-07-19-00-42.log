@@ -1,0 +1,54 @@
+00:36:08.624 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:36:09.499 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Providing registration details
+00:36:10.581 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:36:10.589 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Registration successful
+00:36:10.589 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:36:43.741 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:36:43.741 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:36:43.757 [TestNG-tests-2] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:36:43.757 [TestNG-tests-1] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:36:44.219 [TestNG-tests-3] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:36:44.223 [TestNG-tests-3] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:36:45.092 [TestNG-tests-3] INFO  BaseTestClass.BaseClass - Providing registration details
+00:36:46.034 [TestNG-tests-3] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:36:46.042 [TestNG-tests-3] INFO  BaseTestClass.BaseClass - Registration successful
+00:36:46.042 [TestNG-tests-3] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:39:06.484 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:39:06.504 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:39:07.187 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:39:07.633 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:39:09.020 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:39:09.021 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:39:13.300 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:39:13.303 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:39:13.802 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:39:14.228 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:39:14.886 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:39:14.886 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:39:19.718 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:39:19.722 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:39:20.541 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:39:21.824 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:39:21.839 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:39:21.839 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:41:10.597 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:41:10.615 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:41:11.189 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:41:11.667 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:41:12.765 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:41:12.765 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:41:16.682 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:41:16.689 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:41:17.338 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:41:17.810 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:41:18.508 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:41:18.508 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:41:23.292 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:41:23.298 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:41:24.149 [main] INFO  BaseTestClass.BaseClass - Providing registration details
+00:41:25.388 [main] INFO  BaseTestClass.BaseClass - Checking confirmation message
+00:41:25.402 [main] INFO  BaseTestClass.BaseClass - Registration successful
+00:41:25.402 [main] INFO  BaseTestClass.BaseClass - ****** Finished TC001_AccountRegistrationTest ********
+00:42:51.616 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:42:51.638 [main] INFO  BaseTestClass.BaseClass - ****** Starting TC001_AccountRegistrationTest ********
+00:42:52.317 [main] INFO  BaseTestClass.BaseClass - Providing registration details

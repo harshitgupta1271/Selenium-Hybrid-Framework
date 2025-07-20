@@ -1,0 +1,22 @@
+
+
+# 1. Run Standalone Grid
+cd /Users/harshit/Desktop/seleniumwebdriver/Opencart_v1.0.1
+java -jar selenium-server-4.20.0.jar standalone
+
+# 2. Start Grid on Docker
+cd /Users/harshit/Desktop/seleniumwebdriver/Opencart_v1.0.1
+docker-compose up
+
+# 3. Remove Containers on Docker
+cd /Users/harshit/Desktop/seleniumwebdriver/Opencart_v1.0.1
+docker-compose down
+
+# 4. Run Maven Tests (pom.xml)
+cd /Users/harshit/Desktop/seleniumwebdriver/Opencart_v1.0.1
+mvn test
+   
+   
+   
+   
+   

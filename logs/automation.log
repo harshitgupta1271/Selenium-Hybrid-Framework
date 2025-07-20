@@ -27,3 +27,35 @@
 16:05:11.906 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
 16:05:11.907 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
 16:05:12.029 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+00:14:29.747 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:14:29.762 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:14:29.773 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:14:30.224 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:14:30.907 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+00:14:30.925 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+00:14:30.925 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+00:14:31.375 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+00:14:35.655 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:14:35.655 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:14:35.656 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:14:35.885 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:14:36.013 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+00:14:36.720 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+00:14:36.720 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+00:14:36.833 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+00:16:15.728 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:16:15.742 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:16:15.753 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:16:16.268 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:16:17.334 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+00:16:17.349 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+00:16:17.349 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+00:16:17.792 [main] INFO  BaseTestClass.BaseClass - Browser closed.
+00:16:21.660 [main] INFO  BaseTestClass.BaseClass - Browser launched and URL opened.
+00:16:21.662 [main] INFO  BaseTestClass.BaseClass - *** Started login test  ***
+00:16:21.663 [main] INFO  BaseTestClass.BaseClass - Clicking my account and login 
+00:16:21.927 [main] INFO  BaseTestClass.BaseClass - filling login credentials using config.properties file
+00:16:22.095 [main] INFO  BaseTestClass.BaseClass - verifying if my account message exists
+00:16:22.805 [main] INFO  BaseTestClass.BaseClass - My Account Existed
+00:16:22.805 [main] INFO  BaseTestClass.BaseClass - *** Finished login test  ***
+00:16:22.933 [main] INFO  BaseTestClass.BaseClass - Browser closed.
